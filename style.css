@@ -6,18 +6,18 @@ body {
     margin: 0;
     background-color: white;
     font-family: Arial, sans-serif;
-    color: #222;
+    color: black;
 }
 
 header {
     text-align: center;
     padding: 20px;
-    border-bottom: 2px solid #d8a0e0;
+    border-bottom: 2px solid black;
 }
 
 header h1 {
     margin: 0;
-    color: #752681;
+    color: black;
     font-family: "Brush Script MT", cursive;
     font-size: 38px;
 }
@@ -27,7 +27,7 @@ main {
 }
 
 .media-section {
-    border: 2px solid #a92caf;
+    border: 2px solid black;
     border-radius: 5px;
     padding: 25px 20px 30px;
     margin-bottom: 25px;
@@ -35,8 +35,8 @@ main {
 }
 
 .media-section h2 {
-    background-color: #dfb0e5;
-    color: #65216f;
+    background-color: black;
+    color: white;
     font-family: "Brush Script MT", cursive;
     font-size: 25px;
     font-weight: normal;
@@ -60,7 +60,7 @@ main {
     height: 195px;
     object-fit: cover;
 
-    border: 5px solid #d600d6;
+    border: 5px solid black;
     border-radius: 50%;
 
     margin-right: 8px;
@@ -89,7 +89,7 @@ main {
     width: 250px;
     height: 180px;
 
-    border: 4px solid #a92caf;
+    border: 4px solid black;
     border-radius: 10px;
 
     margin: 10px 8px;
